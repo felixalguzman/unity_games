@@ -1,0 +1,4 @@
+repository "Monster Attack Survival@felixlvl@cloud"
+  path "/"
+    br "/main"
+    co "/main"

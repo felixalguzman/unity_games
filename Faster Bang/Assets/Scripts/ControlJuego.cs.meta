@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e25b09eeabdbecb4680b99f4326614e2
+timeCreated: 1518171950
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nuevaFlecha: {fileID: 1627581051486386, guid: a7e2aa8212b73bb4580095b6600e187a,
+      type: 2}
+  - sonidoFlecha: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

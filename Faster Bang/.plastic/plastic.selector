@@ -1,0 +1,4 @@
+repository "Faster Bang@felixlvl@cloud"
+  path "/"
+    br "/main"
+    co "/main"

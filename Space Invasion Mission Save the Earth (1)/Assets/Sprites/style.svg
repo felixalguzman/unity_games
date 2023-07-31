@@ -1,0 +1,3405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="style.svg"
+   inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\Assets\style\colours.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title3815">jumpr style</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6543">
+      <stop
+         style="stop-color:#923dbf;stop-opacity:1;"
+         offset="0"
+         id="stop6545" />
+      <stop
+         style="stop-color:#3ababe;stop-opacity:1;"
+         offset="1"
+         id="stop6547" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3983"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3985" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3894"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#282828;stop-opacity:1;"
+         offset="0"
+         id="stop3896" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3888"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#282828;stop-opacity:1;"
+         offset="0"
+         id="stop3890" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4205"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b1b1b1;stop-opacity:1;"
+         offset="0"
+         id="stop4207" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4092"
+       osb:paint="solid"
+       gradientTransform="matrix(1,0,0,1.0869565,0,-91.509755)">
+      <stop
+         style="stop-color:#282828;stop-opacity:1;"
+         offset="0"
+         id="stop4094" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4043"
+       osb:paint="solid"
+       gradientTransform="translate(-520,0)">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop4045" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4071"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4073" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5516">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5518" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5508"
+       osb:paint="solid"
+       gradientTransform="matrix(8.1643282,0,0,3.5231071,-9449.5535,-11211.97)">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5510" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4093">
+      <stop
+         style="stop-color:#669900;stop-opacity:1;"
+         offset="0"
+         id="stop4095" />
+      <stop
+         style="stop-color:#669900;stop-opacity:0;"
+         offset="1"
+         id="stop4097" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4085">
+      <stop
+         style="stop-color:#78a000;stop-opacity:1;"
+         offset="0"
+         id="stop4087" />
+      <stop
+         style="stop-color:#78a032;stop-opacity:0;"
+         offset="1"
+         id="stop4089" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4055"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#78a032;stop-opacity:1;"
+         offset="0"
+         id="stop4057" />
+      <stop
+         style="stop-color:#a0b432;stop-opacity:1;"
+         offset="1"
+         id="stop4059" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3935"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#dc8219;stop-opacity:1;"
+         offset="0"
+         id="stop3937" />
+      <stop
+         style="stop-color:#e1a528;stop-opacity:1;"
+         offset="1"
+         id="stop3939" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3922"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#cc0000;stop-opacity:1;"
+         offset="0"
+         id="stop3924" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3798">
+      <stop
+         style="stop-color:#dd8d17;stop-opacity:0.78431374;"
+         offset="0"
+         id="stop3800" />
+      <stop
+         style="stop-color:#dd8d2b;stop-opacity:0;"
+         offset="1"
+         id="stop3802" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3813"
+       x1="47.088387"
+       y1="809.3717"
+       x2="47.09248"
+       y2="730.26416"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,1555.7243)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3934"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5,0,0,-1.5,400,1807.4054)"
+       x1="47.088387"
+       y1="809.3717"
+       x2="47.09248"
+       y2="730.26416" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient4054"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,1555.7243)"
+       x1="47.088387"
+       y1="809.3717"
+       x2="47.09248"
+       y2="730.26416" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3118"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5,0,0,-1.5,400,1807.4054)"
+       x1="47.088387"
+       y1="809.3717"
+       x2="47.09248"
+       y2="730.26416" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3130"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5,0,0,-1.5,880,1727.4054)"
+       x1="47.088387"
+       y1="809.3717"
+       x2="47.09248"
+       y2="730.26416" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient3689"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.5493645,0,0,2.6479385,-2161.7337,-721.3986)"
+       x1="766.82281"
+       y1="467.44318"
+       x2="879.51904"
+       y2="467.44318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient3878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.5493645,0,0,2.6479385,-1641.7337,-721.3986)"
+       x1="766.82281"
+       y1="467.44318"
+       x2="879.51904"
+       y2="467.44318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4004"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4777713,0,0,2.5945277,-2109.7246,-694.35182)"
+       x1="766.82281"
+       y1="467.44318"
+       x2="879.51904"
+       y2="467.44318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4442"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.891351,0,0,0.5287226,0,92)"
+       x1="292.3062"
+       y1="1012.8488"
+       x2="510.8179"
+       y2="1012.8488" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4456"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4777713,0,0,2.5945277,-1066.9169,-694.35182)"
+       x1="766.82281"
+       y1="467.44318"
+       x2="879.51904"
+       y2="467.44318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4478"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4777713,0,0,2.5945277,-2109.7246,-694.35182)"
+       x1="766.82281"
+       y1="467.44318"
+       x2="879.51904"
+       y2="467.44318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4480"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.891351,0,0,0.5287226,0,92)"
+       x1="292.3062"
+       y1="1012.8488"
+       x2="510.8179"
+       y2="1012.8488" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4600"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4777713,0,0,2.5945277,-2109.7246,-694.35182)"
+       x1="766.82281"
+       y1="467.44318"
+       x2="879.51904"
+       y2="467.44318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4602"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.891351,0,0,0.5287226,0,92)"
+       x1="292.3062"
+       y1="1012.8488"
+       x2="510.8179"
+       y2="1012.8488" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4730"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4777713,0,0,2.5945277,-2109.7246,-694.35182)"
+       x1="766.82281"
+       y1="467.44318"
+       x2="879.51904"
+       y2="467.44318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient4732"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.891351,0,0,0.5287226,0,92)"
+       x1="292.3062"
+       y1="1012.8488"
+       x2="510.8179"
+       y2="1012.8488" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6336"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,678.8504,204.7905)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6338"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,558.8504,164.7905)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6340"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,458.8504,84.7905)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6342"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,538.8504,4.7905)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6344"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,478.8504,-75.2095)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6346"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,398.8504,-155.2095)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6348"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,658.8504,-135.2095)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient6350"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3804761,0,0,0.33606722,598.8504,-235.2095)"
+       x1="290.34091"
+       y1="2397.0552"
+       x2="326.04807"
+       y2="2397.0552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient6360"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4327008,0,0,0.69844161,-520,0.07086808)"
+       x1="1116.7719"
+       y1="795.04331"
+       x2="1395.9649"
+       y2="795.04331" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4093"
+       id="linearGradient3194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99997917,0,0,1,-359.99098,0)"
+       x1="430"
+       y1="514.57892"
+       x2="430.30728"
+       y2="632.18732" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient3196"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-360,0)"
+       x1="430"
+       y1="489.36218"
+       x2="478"
+       y2="489.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient3199"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.75,0,0,0.75,93.5,443.34055)"
+       x1="430"
+       y1="489.36218"
+       x2="478"
+       y2="489.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4093"
+       id="linearGradient3202"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99997917,0,0,1,-29.98997,314.50011)"
+       x1="430"
+       y1="514.57892"
+       x2="430.30728"
+       y2="632.18732" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient3844"
+       gradientTransform="matrix(1.5104018,0,0,0.31734869,659.92643,9.5680284)"
+       x1="302.61722"
+       y1="2075.9316"
+       x2="381.41545"
+       y2="2075.9945"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient3850"
+       gradientTransform="matrix(3.1060922,0,0,0.31734869,0,9.5680017)"
+       x1="359.6728"
+       y1="2075.9945"
+       x2="397.92767"
+       y2="2075.9316"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4093"
+       id="linearGradient3203"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99997917,0,0,1,-359.99098,0)"
+       x1="430"
+       y1="514.57892"
+       x2="430.30728"
+       y2="632.18732" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient3205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-360,0)"
+       x1="430"
+       y1="489.36218"
+       x2="478"
+       y2="489.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient3212"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5104018,0,0,0.31734869,1349.9264,169.56803)"
+       x1="302.61722"
+       y1="2075.9316"
+       x2="381.41545"
+       y2="2075.9945" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient3215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.1060922,0,0,0.31734869,690,169.568)"
+       x1="359.6728"
+       y1="2075.9945"
+       x2="397.92767"
+       y2="2075.9316" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient3229"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.1060922,0,0,0.31734869,690,169.568)"
+       x1="359.6728"
+       y1="2075.9945"
+       x2="397.92767"
+       y2="2075.9316" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient3231"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5104018,0,0,0.31734869,1349.9264,169.56803)"
+       x1="302.61722"
+       y1="2075.9316"
+       x2="381.41545"
+       y2="2075.9945" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4093"
+       id="linearGradient3243"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99997917,0,0,1,-359.99098,0)"
+       x1="430"
+       y1="514.57892"
+       x2="430.30728"
+       y2="632.18732" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="linearGradient3245"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-360,0)"
+       x1="430"
+       y1="489.36218"
+       x2="478"
+       y2="489.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4071"
+       id="linearGradient4158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.03289,0)"
+       x1="1854.1659"
+       y1="986.66858"
+       x2="1925.7206"
+       y2="986.66858" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4071"
+       id="linearGradient4166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.03289,0)"
+       x1="1831.6659"
+       y1="755.40436"
+       x2="1925.0175"
+       y2="755.40436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4071"
+       id="linearGradient4170"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.03289,0)"
+       x1="1711.5253"
+       y1="637.41614"
+       x2="1925.0643"
+       y2="637.41614" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4071"
+       id="linearGradient4194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.03289,-9.996712)"
+       x1="1763.8846"
+       y1="865.41083"
+       x2="1925.0175"
+       y2="865.41083" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient4385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4327008,0,0,0.69798244,-319.33564,42.86883)"
+       x1="530.46667"
+       y1="2012.0308"
+       x2="748.23718"
+       y2="2012.0308" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient4397"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4327008,0,0,0.69798244,-319.33564,-137.13117)"
+       x1="530.46667"
+       y1="2012.0308"
+       x2="748.23718"
+       y2="2012.0308" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3935"
+       id="linearGradient4409"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4327008,0,0,0.69798244,-319.33564,42.86883)"
+       x1="530.46667"
+       y1="2012.0308"
+       x2="748.23718"
+       y2="2012.0308" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4123"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4125"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4127"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="284.36218"
+       x2="964"
+       y2="284.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4149"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4151"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4153"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="284.36218"
+       x2="964"
+       y2="284.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4173"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4175"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4177"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="284.36218"
+       x2="964"
+       y2="284.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4188"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4190"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4192"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="284.36218"
+       x2="964"
+       y2="284.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4195"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="284.36218"
+       x2="964"
+       y2="284.36218"
+       gradientTransform="translate(-520,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4198"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218"
+       gradientTransform="translate(-520,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4201"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218"
+       gradientTransform="translate(-520,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3317"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218"
+       gradientTransform="translate(-520,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3321"
+       gradientUnits="userSpaceOnUse"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218"
+       gradientTransform="translate(-520,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3329"
+       gradientUnits="userSpaceOnUse"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218"
+       gradientTransform="translate(-520,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3894"
+       id="linearGradient3898"
+       x1="0"
+       y1="652.36218"
+       x2="480"
+       y2="652.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.92,0,-168.17321)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3983"
+       id="linearGradient3987"
+       x1="64"
+       y1="80"
+       x2="416"
+       y2="80"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3983"
+       id="linearGradient4031"
+       gradientUnits="userSpaceOnUse"
+       x1="64"
+       y1="80"
+       x2="416"
+       y2="80" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3237"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       id="linearGradient3983-7"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3985-4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3435"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3487"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3489"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3491"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3532"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3534"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3536"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3559"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3561"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3563"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3584"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3586"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3588"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3608"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3610"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3612"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3631"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3633"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3635"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3684"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3686"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205-7"
+       id="linearGradient3690-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       id="linearGradient4205-7"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b1b1b1;stop-opacity:1;"
+         offset="0"
+         id="stop4207-4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4043-9"
+       osb:paint="solid"
+       gradientTransform="translate(-520,0)">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop4045-4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3365"
+       osb:paint="solid"
+       gradientTransform="translate(-520,0)">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop3367" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3369"
+       osb:paint="solid"
+       gradientTransform="translate(-520,0)">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop3371" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient4350"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="520"
+       y1="253.36218"
+       x2="1000"
+       y2="253.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4352"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="294.36218"
+       x2="964"
+       y2="294.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4354"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-520,0)"
+       x1="956"
+       y1="274.36218"
+       x2="964"
+       y2="274.36218" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-10.03225"
+     inkscape:cy="397.65655"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1373"
+     inkscape:window-height="877"
+     inkscape:window-x="1432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       units="px"
+       empspacing="32"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       dotted="false"
+       color="#39ffff"
+       opacity="0.1254902"
+       empcolor="#ff0000"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>jumpr style</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     inkscape:label="Colours"
+     id="g11786"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#282828;fill-opacity:1;stroke:none;display:inline"
+       id="rect11788"
+       width="480"
+       height="800"
+       x="0"
+       y="0"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\menu_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect11822"
+       width="161"
+       height="50"
+       x="32"
+       y="256" />
+    <rect
+       y="298"
+       x="32"
+       height="2"
+       width="150"
+       id="rect11824"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       sodipodi:linespacing="125%"
+       id="text11826"
+       y="293.16016"
+       x="30.568687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         y="293.16016"
+         x="30.568687"
+         id="tspan11828"
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start">colours</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="393.16016"
+       id="text11915"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="393.16016"
+         id="tspan11923">Use orange as the default</tspan><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="433.16016"
+         id="tspan11927">colour, blue as a highlight and</tspan><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="473.16016"
+         id="tspan11929">grey for disabled items.</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       sodipodi:linespacing="125%"
+       id="text12073"
+       y="545.16016"
+       x="90.568687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan12079"
+         y="545.16016"
+         x="90.568687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff">#FFBB33</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="90.568687"
+       y="605.16016"
+       id="text12090"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="90.568687"
+         y="605.16016"
+         id="tspan12092">#33B5E5</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       sodipodi:linespacing="125%"
+       id="text12094"
+       y="665.16016"
+       x="90.568687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan12096"
+         y="665.16016"
+         x="90.568687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff">#A0A0A0</tspan></text>
+    <rect
+       style="fill:#ffbb33;fill-opacity:1;stroke:none"
+       id="rect12098"
+       width="32"
+       height="32"
+       x="52"
+       y="517.48828" />
+    <rect
+       y="577.48828"
+       x="52"
+       height="32"
+       width="32"
+       id="rect12100"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#a0a0a0;fill-opacity:1;stroke:none"
+       id="rect12102"
+       width="32"
+       height="32"
+       x="52"
+       y="637.48828" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="290.5687"
+       y="545.16016"
+       id="text12104"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="290.5687"
+         y="545.16016"
+         id="tspan12106">#99CC00</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       sodipodi:linespacing="125%"
+       id="text12108"
+       y="605.16016"
+       x="290.5687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan12110"
+         y="605.16016"
+         x="290.5687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff">#FF4444</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="290.5687"
+       y="665.16016"
+       id="text12112"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="290.5687"
+         y="665.16016"
+         id="tspan12114">#AA66CC</tspan></text>
+    <rect
+       y="517.48828"
+       x="252"
+       height="32"
+       width="32"
+       id="rect12116"
+       style="fill:#99cc00;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ff4444;fill-opacity:1;stroke:none"
+       id="rect12118"
+       width="32"
+       height="32"
+       x="252"
+       y="577.48828" />
+    <rect
+       y="637.48828"
+       x="252"
+       height="32"
+       width="32"
+       id="rect12120"
+       style="fill:#aa66cc;fill-opacity:1;stroke:none" />
+    <rect
+       y="700"
+       x="64"
+       height="35"
+       width="358"
+       id="rect12122"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path12124"
+       d="m 347.4516,704 0,-18 -18,18 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       sodipodi:linespacing="125%"
+       id="text12126"
+       y="725.16382"
+       x="243.20996"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan12128"
+         y="725.16382"
+         x="243.20996"
+         sodipodi:role="line"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto">Use these if you require more colours.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11958"
+     inkscape:label="Guidelines"
+     style="display:none">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\menu_background.png"
+       y="0"
+       x="0"
+       height="800"
+       width="480"
+       id="rect11960"
+       style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="413.16016"
+       id="text11962"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan11964"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="413.16016">Use the thin Roboto font when</tspan><tspan
+         id="tspan11966"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="453.16016">possible.</tspan></text>
+    <rect
+       y="256"
+       x="32"
+       height="50"
+       width="161"
+       id="rect11968"
+       style="fill:none;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+       id="rect11970"
+       width="177"
+       height="2"
+       x="60"
+       y="298" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="293.16016"
+       id="text11972"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:start;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan11974"
+         x="30.568687"
+         y="293.16016">guidelines</tspan></text>
+    <g
+       id="g12045">
+      <g
+         id="g11976">
+        <rect
+           y="490"
+           x="105.54842"
+           height="35"
+           width="316"
+           id="rect11978"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path11980"
+           d="m 130,494 0,-18 18,18 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="263.75836"
+         y="515.16382"
+         id="text11982"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="263.75836"
+           y="515.16382"
+           id="tspan11984">Use regular Roboto for small text.</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       sodipodi:linespacing="125%"
+       id="text11986"
+       y="573.16016"
+       x="30.568687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan11992"
+         y="573.16016"
+         x="30.568687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff">Try to avoid the use of curves</tspan><tspan
+         y="613.16016"
+         x="30.568687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan12027">in design elements to empha-</tspan><tspan
+         y="653.16016"
+         x="30.568687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan12029">size the forms of the letters.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect12058"
+       width="212"
+       height="35"
+       x="157.4068"
+       y="690" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 190,694 0,-18 18,18 z"
+       id="path12060"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="263.75836"
+       y="715.16382"
+       id="text12062"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto"
+         sodipodi:role="line"
+         x="263.75836"
+         y="715.16382"
+         id="tspan12064">Circles are ok though.</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Controls 2"
+     id="g10149"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#282828;fill-opacity:1;stroke:none;display:inline"
+       id="rect10151"
+       width="480"
+       height="800"
+       x="0"
+       y="0"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10171">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect10173"
+         width="164"
+         height="50"
+         x="261"
+         y="712" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text10175"
+         y="751.15979"
+         x="342.94922"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="751.15979"
+           x="342.94922"
+           id="tspan10177"
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle">ok</tspan></text>
+      <g
+         id="g10179"
+         transform="translate(0,-1.5)"
+         style="fill:#33b5e5">
+        <rect
+           y="737.5"
+           x="371"
+           height="2"
+           width="54"
+           id="rect10181"
+           style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+           id="rect10183"
+           width="55"
+           height="2"
+           x="261"
+           y="737.5" />
+      </g>
+    </g>
+    <rect
+       y="256"
+       x="32"
+       height="50"
+       width="161"
+       id="rect10191"
+       style="fill:none;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+       id="rect10193"
+       width="133"
+       height="2"
+       x="33"
+       y="298" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="293.16016"
+       id="text10195"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:start;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan10197"
+         x="30.568687"
+         y="293.16016">heading</tspan></text>
+    <g
+       id="g10199">
+      <rect
+         y="712"
+         x="55"
+         height="50"
+         width="164"
+         id="rect10201"
+         style="fill:none;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="136.94922"
+         y="751.15979"
+         id="text10203"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="text-align:center;text-anchor:middle"
+           sodipodi:role="line"
+           id="tspan10205"
+           x="136.94922"
+           y="751.15979">cancel</tspan></text>
+      <g
+         id="g10207"
+         transform="translate(0,-1.5)">
+        <rect
+           style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline"
+           id="rect10209"
+           width="14.000001"
+           height="2"
+           x="205"
+           y="737.5" />
+        <rect
+           y="737.5"
+           x="55"
+           height="2"
+           width="12"
+           id="rect10211"
+           style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g5697"
+       transform="translate(0,-100)">
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="90"
+         y="550.00043"
+         id="text4349-5-0-9"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\recommended_tag.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan4351-0-6-3"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="90"
+           y="550.00043">low</tspan></text>
+      <g
+         id="g5689">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="rect3385"
+           width="273"
+           height="2"
+           x="103"
+           y="544"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="544"
+           x="103"
+           height="2"
+           width="234"
+           id="rect4176"
+           style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ffbb33;stroke-width:0.55555558;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path4174"
+           sodipodi:cx="402.5"
+           sodipodi:cy="487.5"
+           sodipodi:rx="2.5"
+           sodipodi:ry="2.5"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           transform="matrix(3.6,0,0,3.6,-1112,-1210)"
+           inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\Assets\graphics\packed_textures\slider_thumb.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.2,0,0,1.2,-146,-40)"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           sodipodi:ry="2.5"
+           sodipodi:rx="2.5"
+           sodipodi:cy="487.5"
+           sodipodi:cx="402.5"
+           id="path4182"
+           style="fill:#ffbb33;fill-opacity:1;stroke:none"
+           sodipodi:type="arc"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.2,0,0,1.2,-107,-40)"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           sodipodi:ry="2.5"
+           sodipodi:rx="2.5"
+           sodipodi:cy="487.5"
+           sodipodi:cx="402.5"
+           id="path3505-1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           sodipodi:type="arc"
+           inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\Assets\graphics\packed_textures\slider_end_of_bar.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           sodipodi:type="arc"
+           style="fill:#ffbb33;fill-opacity:1;stroke:none"
+           id="path4960"
+           sodipodi:cx="402.5"
+           sodipodi:cy="487.5"
+           sodipodi:rx="2.5"
+           sodipodi:ry="2.5"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           transform="matrix(1.2,0,0,1.2,-380,-40)" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+         sodipodi:linespacing="125%"
+         id="text3535-60-1-4"
+         y="550"
+         x="390"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="550"
+           x="390"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan3537-2-3-6">high</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="413.16016"
+       id="text5200"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5208"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="413.16016">slider</tspan></text>
+    <g
+       style="display:inline"
+       id="g9752"
+       transform="translate(0,-100)">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\recommended_tag.png"
+         sodipodi:linespacing="125%"
+         id="text8801"
+         y="590.00043"
+         x="90"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="590.00043"
+           x="90"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan8803">0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="390"
+         y="590"
+         id="text8819"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan8821"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="390"
+           y="590">100</tspan></text>
+      <g
+         id="g8875">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="rect8877"
+           width="273"
+           height="2"
+           x="103"
+           y="584"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="584"
+           x="103"
+           height="2"
+           width="234"
+           id="rect8879"
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           transform="matrix(1.2,0,0,1.2,-146,0)"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           sodipodi:ry="2.5"
+           sodipodi:rx="2.5"
+           sodipodi:cy="487.5"
+           sodipodi:cx="402.5"
+           id="path8881"
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none"
+           sodipodi:type="arc"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.2,0,0,1.2,-107,0)"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           sodipodi:ry="2.5"
+           sodipodi:rx="2.5"
+           sodipodi:cy="487.5"
+           sodipodi:cx="402.5"
+           id="path8883"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           sodipodi:type="arc"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           sodipodi:type="arc"
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none"
+           id="path8885"
+           sodipodi:cx="402.5"
+           sodipodi:cy="487.5"
+           sodipodi:rx="2.5"
+           sodipodi:ry="2.5"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           transform="matrix(1.2,0,0,1.2,-380,0)" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g9717"
+       transform="translate(-102,-118)">
+      <g
+         id="g9696">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect4737"
+           width="93"
+           height="35"
+           x="160"
+           y="628" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 230,632 0,-18 -18,18 z"
+           id="path4739"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text4727"
+         y="653.16382"
+         x="205.75838"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           id="tspan4735"
+           y="653.16382"
+           x="205.75838"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto">disabled</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g9710"
+       transform="translate(20,-103)">
+      <g
+         id="g9706">
+        <rect
+           y="488"
+           x="162"
+           height="35"
+           width="89"
+           id="rect8918"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path8924"
+           d="m 230,519 0,18 -18,-18 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="206.26361"
+         y="513.16382"
+         id="text8920"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="206.26361"
+           y="513.16382"
+           id="tspan8922">enabled</tspan></text>
+    </g>
+    <g
+       id="g10213"
+       style="display:inline"
+       transform="translate(0,-100)">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\recommended_tag.png"
+         sodipodi:linespacing="125%"
+         id="text10215"
+         y="550.00043"
+         x="90"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="550.00043"
+           x="90"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan10217">low</tspan></text>
+      <g
+         id="g10219">
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+           y="544"
+           x="103"
+           height="2"
+           width="273"
+           id="rect10221"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline"
+           id="rect10223"
+           width="234"
+           height="2"
+           x="103"
+           y="544" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\Assets\graphics\packed_textures\slider_thumb.png"
+           transform="matrix(3.6,0,0,3.6,-1112,-1210)"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           sodipodi:ry="2.5"
+           sodipodi:rx="2.5"
+           sodipodi:cy="487.5"
+           sodipodi:cx="402.5"
+           id="path10225"
+           style="fill:none;stroke:#ffbb33;stroke-width:0.55555558;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           sodipodi:type="arc" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           sodipodi:type="arc"
+           style="fill:#ffbb33;fill-opacity:1;stroke:none"
+           id="path10227"
+           sodipodi:cx="402.5"
+           sodipodi:cy="487.5"
+           sodipodi:rx="2.5"
+           sodipodi:ry="2.5"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           transform="matrix(1.2,0,0,1.2,-146,-40)" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\Assets\graphics\packed_textures\slider_end_of_bar.png"
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path10229"
+           sodipodi:cx="402.5"
+           sodipodi:cy="487.5"
+           sodipodi:rx="2.5"
+           sodipodi:ry="2.5"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           transform="matrix(1.2,0,0,1.2,-107,-40)" />
+        <path
+           transform="matrix(1.2,0,0,1.2,-380,-40)"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           sodipodi:ry="2.5"
+           sodipodi:rx="2.5"
+           sodipodi:cy="487.5"
+           sodipodi:cx="402.5"
+           id="path10231"
+           style="fill:#ffbb33;fill-opacity:1;stroke:none"
+           sodipodi:type="arc"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="390"
+         y="550"
+         id="text10233"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan10235"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="390"
+           y="550">high</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       sodipodi:linespacing="125%"
+       id="text10237"
+       y="413.16016"
+       x="30.568687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         y="413.16016"
+         x="30.568687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan10239">sliders</tspan></text>
+    <g
+       id="g10241"
+       style="display:inline"
+       transform="translate(0,-100)">
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="90"
+         y="590.00043"
+         id="text10243"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\recommended_tag.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan10245"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="90"
+           y="590.00043">0</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+         sodipodi:linespacing="125%"
+         id="text10247"
+         y="590"
+         x="390"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="590"
+           x="390"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan10249">100</tspan></text>
+      <g
+         id="g10251">
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+           y="584"
+           x="103"
+           height="2"
+           width="273"
+           id="rect10253"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline"
+           id="rect10255"
+           width="234"
+           height="2"
+           x="103"
+           y="584" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           sodipodi:type="arc"
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none"
+           id="path10257"
+           sodipodi:cx="402.5"
+           sodipodi:cy="487.5"
+           sodipodi:rx="2.5"
+           sodipodi:ry="2.5"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           transform="matrix(1.2,0,0,1.2,-146,0)" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path10259"
+           sodipodi:cx="402.5"
+           sodipodi:cy="487.5"
+           sodipodi:rx="2.5"
+           sodipodi:ry="2.5"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           transform="matrix(1.2,0,0,1.2,-107,0)" />
+        <path
+           transform="matrix(1.2,0,0,1.2,-380,0)"
+           d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+           sodipodi:ry="2.5"
+           sodipodi:rx="2.5"
+           sodipodi:cy="487.5"
+           sodipodi:cx="402.5"
+           id="path10261"
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none"
+           sodipodi:type="arc"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <g
+       transform="translate(-102,-118)"
+       id="g10263"
+       style="display:inline">
+      <g
+         id="g10265">
+        <rect
+           y="628"
+           x="160"
+           height="35"
+           width="93"
+           id="rect10267"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path10269"
+           d="m 230,632 0,-18 -18,18 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="205.75838"
+         y="653.16382"
+         id="text10271"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="205.75838"
+           y="653.16382"
+           id="tspan10273">disabled</tspan></text>
+    </g>
+    <g
+       transform="translate(20,-103)"
+       id="g10275"
+       style="display:inline">
+      <g
+         id="g10277">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect10279"
+           width="89"
+           height="35"
+           x="162"
+           y="488" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 230,519 0,18 -18,-18 z"
+           id="path10281"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text10283"
+         y="513.16382"
+         x="206.26361"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           id="tspan10285"
+           y="513.16382"
+           x="206.26361"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto">enabled</tspan></text>
+    </g>
+    <g
+       id="g10287"
+       transform="translate(100,173)"
+       style="display:inline">
+      <g
+         id="g10289">
+        <rect
+           y="488"
+           x="162"
+           height="35"
+           width="89"
+           id="rect10291"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path10293"
+           d="m 230,519 0,18 -18,-18 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="206.26361"
+         y="513.16382"
+         id="text10295"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="206.26361"
+           y="513.16382"
+           id="tspan10297">pressed</tspan></text>
+    </g>
+    <g
+       id="g10780"
+       transform="translate(0,100)">
+      <g
+         transform="translate(-37.5,60)"
+         id="g10301">
+        <text
+           xml:space="preserve"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+           x="220.31934"
+           y="466.49451"
+           id="text10303"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             id="tspan10305"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+             sodipodi:role="line"
+             x="220.31934"
+             y="466.49451">current</tspan></text>
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path10307"
+           d="m 189.5,445 27.5,0 3.5,-3 3.5,3 27.5,0"
+           style="fill:none;stroke:#a0a0a0;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g10775">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path10311"
+           d="m 246,481 7.50002,0 3.5,3 3.5,-3 7.49998,0"
+           style="fill:none;stroke:#99cc00;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+           x="258.81644"
+           y="473.79999"
+           id="text10313"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             id="tspan10315"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+             sodipodi:role="line"
+             x="258.81644"
+             y="473.79999">#1</tspan></text>
+      </g>
+      <g
+         transform="translate(-23.499977,60)"
+         id="g10317">
+        <text
+           xml:space="preserve"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+           x="320.63672"
+           y="413.79449"
+           id="text10319"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\recommended_tag.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             id="tspan10321"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+             sodipodi:role="line"
+             x="320.63672"
+             y="413.79449">#2</tspan></text>
+        <path
+           style="fill:none;stroke:#ffbb33;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.49998,421 7.50002,0 3.5,3 3.5,-3 7.49998,0"
+           id="path10323"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         transform="translate(-23.499977,60)"
+         id="g10325">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+           sodipodi:linespacing="125%"
+           id="text10327"
+           y="413.79993"
+           x="360.70996"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+           xml:space="preserve"><tspan
+             y="413.79993"
+             x="360.70996"
+             sodipodi:role="line"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+             id="tspan10329">#3</tspan></text>
+        <path
+           style="fill:none;stroke:#ff4444;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 349.49998,421 7.50002,0 3.5,3 3.5,-3 7.49998,0"
+           id="path10331"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\recommended_tag.png"
+         sodipodi:linespacing="125%"
+         id="text10333"
+         y="498"
+         x="89.999985"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="498"
+           x="89.999985"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan10335">easy</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="390"
+         y="498"
+         id="text10337"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\current_tag.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan10339"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto"
+           sodipodi:role="line"
+           x="390"
+           y="498">hard</tspan></text>
+      <g
+         id="g10757">
+        <g
+           id="g10728">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+             y="492"
+             x="102.99998"
+             height="1.9995422"
+             width="273.00003"
+             id="rect10345"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+             sodipodi:type="arc"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             id="path10347"
+             sodipodi:cx="402.5"
+             sodipodi:cy="487.5"
+             sodipodi:rx="2.5"
+             sodipodi:ry="2.5"
+             d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+             transform="matrix(1.2,0,0,1.2,-107,-92)" />
+        </g>
+        <g
+           id="g10732">
+          <rect
+             y="492"
+             x="103"
+             height="1.999599"
+             width="233.50003"
+             id="rect10351"
+             style="fill:#ff4444;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             transform="matrix(1.2,0,0,1.2,-145.99998,-92.000452)"
+             d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+             sodipodi:ry="2.5"
+             sodipodi:rx="2.5"
+             sodipodi:cy="487.5"
+             sodipodi:cx="402.5"
+             id="path10353"
+             style="fill:#ff4444;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           id="g10736">
+          <rect
+             style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline"
+             id="rect10357"
+             width="193.50003"
+             height="1.9995937"
+             x="103"
+             y="492" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+             sodipodi:type="arc"
+             style="fill:#ffbb33;fill-opacity:1;stroke:none"
+             id="path10359"
+             sodipodi:cx="402.5"
+             sodipodi:cy="487.5"
+             sodipodi:rx="2.5"
+             sodipodi:ry="2.5"
+             d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+             transform="matrix(1.2,0,0,1.2,-185.99998,-92.000452)" />
+        </g>
+        <g
+           id="g10740">
+          <rect
+             y="492"
+             x="103"
+             height="1.9995728"
+             width="153.50003"
+             id="rect10363"
+             style="fill:#99cc00;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             transform="matrix(1.2,0,0,1.2,-225.99998,-92.00045)"
+             d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+             sodipodi:ry="2.5"
+             sodipodi:rx="2.5"
+             sodipodi:cy="487.5"
+             sodipodi:cx="402.5"
+             id="path10365"
+             style="fill:#99cc00;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           id="g10752">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+             sodipodi:type="arc"
+             style="fill:#a0a0a0;fill-opacity:1;stroke:none"
+             id="path10373"
+             sodipodi:cx="402.5"
+             sodipodi:cy="487.5"
+             sodipodi:rx="2.5"
+             sodipodi:ry="2.5"
+             d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+             transform="matrix(1.2,0,0,1.2,-380.00002,-92)" />
+          <rect
+             y="492"
+             x="102.99998"
+             height="1.9995728"
+             width="80.000023"
+             id="rect10371"
+             style="fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             transform="matrix(1.2,0,0,1.2,-300,-92.00045)"
+             d="m 405,487.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+             sodipodi:ry="2.5"
+             sodipodi:rx="2.5"
+             sodipodi:cy="487.5"
+             sodipodi:cx="402.5"
+             id="path10369"
+             style="fill:#a0a0a0;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\slider_thumb.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Controls 1"
+     style="display:none">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       y="0"
+       x="0"
+       height="800"
+       width="480"
+       id="rect3904"
+       style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       style="fill:none;stroke:none;display:inline"
+       id="rect5243"
+       width="106"
+       height="34"
+       x="325"
+       y="425" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       sodipodi:linespacing="125%"
+       id="text5215"
+       y="453.16016"
+       x="378.77975"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan5217"
+         y="453.16016"
+         x="378.77975"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="392.54364"
+       y="453.16016"
+       id="text5219"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         x="392.54364"
+         y="453.16016"
+         id="tspan5221">on</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       sodipodi:linespacing="125%"
+       id="text5223"
+       y="453.16016"
+       x="327.29376"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan5225"
+         y="453.16016"
+         x="327.29376"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1">off </tspan></text>
+    <rect
+       y="457"
+       x="387"
+       height="2"
+       width="44"
+       id="rect5241"
+       style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       sodipodi:linespacing="125%"
+       id="text3244"
+       y="413.16016"
+       x="30.568687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         y="413.16016"
+         x="30.568687"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5184">toggles</tspan></text>
+    <g
+       id="g8769">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect4974"
+         width="164"
+         height="50"
+         x="55"
+         y="712" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text4980"
+         y="751.15979"
+         x="136.94922"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="751.15979"
+           x="136.94922"
+           id="tspan4982"
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle">cancel</tspan></text>
+      <g
+         transform="translate(0,-1.5)"
+         id="g8757">
+        <rect
+           y="737.5"
+           x="205"
+           height="2"
+           width="14.000001"
+           id="rect4978"
+           style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline"
+           id="rect4984"
+           width="12"
+           height="2"
+           x="55"
+           y="737.5" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       transform="translate(100,173)"
+       id="g9740">
+      <g
+         id="g9742">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect9744"
+           width="89"
+           height="35"
+           x="162"
+           y="488" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 230,519 0,18 -18,-18 z"
+           id="path9746"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text9748"
+         y="513.16382"
+         x="206.26361"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           id="tspan9750"
+           y="513.16382"
+           x="206.26361"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto">disabled</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\next_button_disabled.png"
+       id="g10921"
+       style="display:inline">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect10923"
+         width="164"
+         height="50"
+         x="261"
+         y="713" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text10925"
+         y="752.15979"
+         x="342.94922"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="752.15979"
+           x="342.94922"
+           id="tspan10927"
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#a0a0a0">next</tspan></text>
+      <g
+         id="g10929"
+         style="fill:#a0a0a0">
+        <rect
+           y="736.99963"
+           x="389"
+           height="2"
+           width="36"
+           id="rect10931"
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           style="fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline"
+           id="rect10933"
+           width="37"
+           height="2"
+           x="261"
+           y="736.99963" />
+      </g>
+    </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       sodipodi:linespacing="125%"
+       id="text10937"
+       y="614.16016"
+       x="422.16406"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan10939"
+         y="614.16016"
+         x="422.16406"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">42</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path10941"
+       d="m 380,618 2,0 0,2 45,0 0,-2 2,0 0,4 -49,0 z"
+       style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="573.16016"
+       id="text11238"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan11240"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="573.16016">text box</tspan></text>
+    <rect
+       y="485"
+       x="325"
+       height="34"
+       width="106"
+       id="rect11608"
+       style="fill:none;stroke:none;display:inline"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="378.77975"
+       y="513.16016"
+       id="text11610"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1"
+         sodipodi:role="line"
+         x="378.77975"
+         y="513.16016"
+         id="tspan11612">/</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       sodipodi:linespacing="125%"
+       id="text11614"
+       y="513.16016"
+       x="392.54364"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         id="tspan11616"
+         y="513.16016"
+         x="392.54364"
+         sodipodi:role="line"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1">on</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="327.29376"
+       y="513.16016"
+       id="text11618"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         x="327.29376"
+         y="513.16016"
+         id="tspan11620">off </tspan></text>
+    <rect
+       y="517"
+       x="325"
+       height="2"
+       width="44"
+       id="rect11632"
+       style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\toggle_off.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none;display:inline"
+       id="rect11846"
+       width="161"
+       height="50"
+       x="32"
+       y="256" />
+    <rect
+       y="298"
+       x="33"
+       height="2"
+       width="133"
+       id="rect11848"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       sodipodi:linespacing="125%"
+       id="text11850"
+       y="293.16016"
+       x="30.568687"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       xml:space="preserve"><tspan
+         y="293.16016"
+         x="30.568687"
+         id="tspan11852"
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start">heading</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g5158"
+     inkscape:label="Question"
+     style="display:none">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\menu_background.png"
+       y="0"
+       x="0"
+       height="800"
+       width="480"
+       id="rect5160"
+       style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       y="578"
+       x="32"
+       height="2"
+       width="416"
+       id="rect5164"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\exit_button.png"
+       y="555"
+       x="360"
+       height="50"
+       width="78"
+       id="rect5166"
+       style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="434.9375"
+       y="593.16016"
+       id="text5168"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5170"
+         x="434.9375"
+         y="593.16016">exit</tspan></text>
+    <g
+       id="g5172">
+      <g
+         id="g5174"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\end_button_pressed.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+           id="rect5176"
+           width="416"
+           height="2"
+           x="32"
+           y="498" />
+        <rect
+           style="fill:#282828;fill-opacity:1;stroke:none;display:inline"
+           id="rect5178"
+           width="83"
+           height="50"
+           x="355"
+           y="475"
+           inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\exit_button.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+           sodipodi:linespacing="125%"
+           id="text5180"
+           y="513.16016"
+           x="434.9375"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+           xml:space="preserve"><tspan
+             y="513.16016"
+             x="434.9375"
+             id="tspan5182"
+             sodipodi:role="line">end</tspan></text>
+      </g>
+      <rect
+         y="498"
+         x="32"
+         height="2"
+         width="416"
+         id="rect5184"
+         style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\exit_button.png"
+         y="475"
+         x="152.08925"
+         height="50"
+         width="285.91077"
+         id="rect5186"
+         style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="434.9375"
+         y="513.16016"
+         id="text5188"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan5190"
+           x="434.9375"
+           y="513.16016">back to game</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffbb33;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="413.16016"
+       id="text5208"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\exit_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5210"
+         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
+         sodipodi:role="line"
+         x="30.568687"
+         y="413.16016">Are you sure you want to exit?</tspan></text>
+    <rect
+       y="256"
+       x="32"
+       height="50"
+       width="161"
+       id="rect11589"
+       style="fill:none;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+       id="rect11591"
+       width="146"
+       height="2"
+       x="60"
+       y="298" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="293.16016"
+       id="text11593"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:start;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan11595"
+         x="30.568687"
+         y="293.16016">question</tspan></text>
+    <g
+       style="display:inline"
+       id="g11642"
+       transform="translate(-22,-18)">
+      <g
+         id="g11644">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect11646"
+           width="93"
+           height="35"
+           x="160"
+           y="628" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 230,632 0,-18 -18,18 z"
+           id="path11648"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text11650"
+         y="653.16382"
+         x="205.75838"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#282828;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           id="tspan11652"
+           y="653.16382"
+           x="205.75838"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#282828;font-family:Roboto;-inkscape-font-specification:Roboto">pressed</tspan></text>
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Menu"
+     id="g11670"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#282828;fill-opacity:1;stroke:none;display:inline"
+       id="rect11672"
+       width="480"
+       height="800"
+       x="0"
+       y="0"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\menu_background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g11674"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\settings_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="578"
+         x="32"
+         height="2"
+         width="416"
+         id="rect11676"
+         style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\exit_button.png"
+         y="555"
+         x="268"
+         height="50"
+         width="170"
+         id="rect11678"
+         style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="434.9375"
+         y="593.16016"
+         id="text11680"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan11682"
+           x="434.9375"
+           y="593.16016">settings</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse4\jumpr-git\jumpr-android\assets\data\graphics\scores_button_pressed.png"
+       id="g11684">
+      <rect
+         style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+         id="rect11686"
+         width="416"
+         height="2"
+         x="32"
+         y="498" />
+      <rect
+         style="fill:#282828;fill-opacity:1;stroke:none;display:inline"
+         id="rect11688"
+         width="145"
+         height="50"
+         x="293"
+         y="475"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\exit_button.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         sodipodi:linespacing="125%"
+         id="text11690"
+         y="513.16016"
+         x="434.9375"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         xml:space="preserve"><tspan
+           y="513.16016"
+           x="434.9375"
+           id="tspan11692"
+           sodipodi:role="line">scores</tspan></text>
+    </g>
+    <g
+       id="g11694">
+      <rect
+         y="418"
+         x="32"
+         height="2"
+         width="416"
+         id="rect11696"
+         style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\exit_button.png"
+         y="395"
+         x="216"
+         height="50"
+         width="222"
+         id="rect11698"
+         style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="434.9375"
+         y="433.16016"
+         id="text11700"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan11702"
+           x="434.9375"
+           y="433.16016">new game</tspan></text>
+    </g>
+    <g
+       transform="translate(0,160)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_button.png"
+       id="g11704">
+      <rect
+         y="498"
+         x="32"
+         height="2"
+         width="416"
+         id="rect11706"
+         style="fill:#ffbb33;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\exit_button.png"
+         y="475"
+         x="330"
+         height="50"
+         width="108"
+         id="rect11708"
+         style="fill:#282828;fill-opacity:1;stroke:none;display:inline" />
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+         x="434.9375"
+         y="513.16016"
+         id="text11710"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="K:\Projects\libGDX\jumpadapt\GeoJump-android\assets\data\graphics\menu_background.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan11712"
+           x="434.9375"
+           y="513.16016">stats</tspan></text>
+    </g>
+    <rect
+       y="155"
+       x="25"
+       height="69"
+       width="211"
+       id="rect11734"
+       style="fill:none;stroke:none" />
+    <rect
+       y="256"
+       x="32"
+       height="50"
+       width="161"
+       id="rect11764"
+       style="fill:none;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       style="fill:#33b5e5;fill-opacity:1;stroke:none;display:inline"
+       id="rect11766"
+       width="116"
+       height="2"
+       x="33"
+       y="298" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Th;-inkscape-font-specification:Roboto Th Ultra-Light"
+       x="30.568687"
+       y="293.16016"
+       id="text11768"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="K:\Projects\Eclipse\jumpadapt\Jumpr-android\assets\data\graphics\stats_background_debug.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:start;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan11770"
+         x="30.568687"
+         y="293.16016">menu</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Overlay"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m -10,-10 0,820 500,0 0,-820 z M 0,0 480,0 480,800 0,800 z"
+       id="rect3787"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b954c98a9ee87cd4786d290bb539d6d4
+  - enabled: 1
+    path: Assets/Scenes/EscenaJuego.unity
+    guid: 0a3dc9ea9588b3f4ca1b4e011ed3d4f1
+  - enabled: 1
+    path: Assets/Scenes/EscenaCreditos.unity
+    guid: b3492400d4d0a6a44a79d0f7ad0a94ae
+  - enabled: 1
+    path: Assets/Scenes/EscenaFinalTirador.unity
+    guid: 6bf397955f319cb468f7ac993284b24d
+  - enabled: 1
+    path: Assets/Scenes/EscenaFinalCaballero.unity
+    guid: b3f1e89d65fda024083cd8c7754e93f5
+  - enabled: 1
+    path: Assets/Scenes/Puntuacion.unity
+    guid: 8c4aebe1c3e5f7148b42d27a304fcf8e

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 409d779cbfcbbef4eba7a087c050cf83
+timeCreated: 1520145496
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balaPrefab: {instanceID: 0}
+  - espada: {fileID: 1728956697923276, guid: 7690b465b7b62384bb46536424a2dc13, type: 2}
+  - transform: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
